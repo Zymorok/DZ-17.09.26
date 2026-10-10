@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Вивчити компоненти React Native",
+      "completed": true,
+      "createdAt": 1789500000000
+    },
+    {
+      "id": "2",
+      "text": "Додати нове завдання",
+      "completed": false,
+      "createdAt": 1789500100000
+    },
+    {
+      "id": "3",
+      "text": "Перевірити роботу мобільного застосунку",
+      "completed": false,
+      "createdAt": 1789500200000
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
